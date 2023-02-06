@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Julian Mclendon</h1>
-<h3 align="center">Aspiring Software Engineer</h3>
+<h3 align="center">Software Engineer</h3>
 
-- 🌱 I’m currently learning **python & AI chatbots**
+- 🌱 I’m currently learning about **python & AI chatbots**
 
 - 📝 I regularly write articles on [http://blog.julianmclendon.com](http://blog.julianmclendon.com)
 
@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **jkmclendon@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1JEFmEdf6NImJNTyWADbOiedJ3jOcazj1TWncX-hybVk/edit?usp=sharing](https://docs.google.com/document/d/1JEFmEdf6NImJNTyWADbOiedJ3jOcazj1TWncX-hybVk/edit?usp=sharing)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1JEFmEdf6NImJNTyWADbOiedJ3jOcazj1TWncX-hybVk/edit?usp=sharing)
 
 - ⚡ Fun fact **I can flip the top of my left ear inside out to look like an elf's**
 
