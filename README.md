@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **jkmclendon@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1JEFmEdf6NImJNTyWADbOiedJ3jOcazj1TWncX-hybVk/edit?usp=sharing)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1U--gOOQ24jsgfkaCsHkkblntZai_1OaPz9V1WEkDaKQ/edit?usp=sharing)
 
 - ⚡ Fun fact **I can flip the top of my left ear inside out to look like an elf's**
 
